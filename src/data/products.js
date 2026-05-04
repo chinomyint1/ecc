@@ -3,19 +3,19 @@ export const products = [
     id: 1,
     name: "Nike Shoes",
     price: 120,
-    image: "https://via.placeholder.com/500x400?text=Nike+Shoes",
+    image: "src/assets/8fe72d3fd5607387ff315ca892ab2e67.jpg",
   },
   {
     id: 2,
     name: "Adidas Hoodie",
     price: 80,
-    image: "https://via.placeholder.com/500x400?text=Adidas+Hoodie",
+    image: "src/assets/9fa1b7659f5705c54afcef13a37e9b7b.jpg",
   },
   {
     id: 3,
     name: "Running Cap",
     price: 25,
-    image: "https://via.placeholder.com/500x400?text=Running+Cap",
+    image: "src/assets/fa9004fb7680886435e1d32922182325.jpg",
   },
   {
     id: 4,
