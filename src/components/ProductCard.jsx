@@ -19,6 +19,7 @@ function ProductCard({ product, addToCart }) {
           onClick={() => addToCart(product)}
           className="w-full rounded-2xl bg-blue-600 px-4 py-2 text-sm font-medium text-white transition hover:bg-blue-700"
         >
+        
           Add to Cart
         </button>
       </div>

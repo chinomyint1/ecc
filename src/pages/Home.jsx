@@ -18,10 +18,10 @@ function Home() {
           className="absolute inset-0 h-full w-full object-cover"
         >
           <source
-            src="https://cdn.coverr.co/videos/coverr-a-store-with-fashion-and-accessories-6663/1080p.mp4"
+            src="src/assets/videoplayback.mp4"
             type="video/mp4"
           />
-          Your browser does not support the video tag.
+          
         </video>
         <div className="absolute inset-0 bg-slate-950/70" />
         <div className="relative mx-auto max-w-4xl px-8 py-24 text-center text-white sm:px-12 sm:py-28">
@@ -42,7 +42,7 @@ function Home() {
             to="/shop"
             className="inline-flex items-center justify-center rounded-2xl bg-blue-600 px-6 py-3 text-sm font-semibold text-white transition hover:bg-blue-700"
           >
-            Browse full shop
+            shop
           </Link>
         </div>
       </section>
