@@ -10,7 +10,7 @@ function Navbar() {
     <header className="sticky top-0 z-20 bg-slate-900 border-b border-slate-700 shadow-sm shadow-slate-950/50">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4 sm:px-6">
         <Link to="/" className="text-xl font-semibold text-white">
-          ShopEase
+          p-shop
         </Link>
 
         <nav className="flex items-center gap-4 text-slate-200">
