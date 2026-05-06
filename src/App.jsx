@@ -5,6 +5,7 @@ import Home from "./pages/Home";
 import Shop from "./pages/Shop";
 import About from "./pages/About";
 import Project from "./pages/Project";
+import ProjectInfo from "./pages/ProjectInfo";
 import Cart from "./pages/Cart";
 import ProductDetails from "./pages/ProductDetails";
 
@@ -19,6 +20,7 @@ function App() {
           <Route path="/shop" element={<Shop />} />
           <Route path="/about" element={<About />} />
           <Route path="/project" element={<Project />} />
+          <Route path="/project-info" element={<ProjectInfo />} />
           <Route path="/cart" element={<Cart />} />
           <Route path="/product/:id" element={<ProductDetails />} />
         </Routes>
