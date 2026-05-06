@@ -1,4 +1,6 @@
-import img from "../assets/9fa1b7659f5705c54afcef13a37e9b7b.jpg";
+import img from "../assets/img1.jpg";
+import img2 from "../assets/img2.jpg";
+import img3 from "../assets/img3.jpg";
 export const products = [
   {
     id: 1,
@@ -10,24 +12,24 @@ export const products = [
     id: 2,
     name: "Hoodie",
     price: 80,
-    image: "./src/assets/9fa1b7659f5705c54afcef13a37e9b7b.jpg",
+    image: img2,
   },
   {
     id: 3,
     name: "Running Cap",
     price: 25,
-    image: "./src/assets/fa9004fb7680886435e1d32922182325.jpg",
+    image: img3,
   },
   {
     id: 4,
     name: "Leather Backpack",
     price: 150,
-    image: "https://via.placeholder.com/500x400?text=Leather+Backpack",
+    image: img3,
   },
   {
     id: 5,
     name: "Wireless Headphones",
     price: 200,
-    image: "https://via.placeholder.com/500x400?text=Wireless+Headphones",
+    image: img2,
   },
 ];

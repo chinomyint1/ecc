@@ -6,7 +6,8 @@ function Footer() {
       <div className="mx-auto flex max-w-7xl flex-col gap-6 px-4 py-8 sm:px-6 md:flex-row md:items-center md:justify-between">
         <div>
           <p className="text-sm font-semibold text-white">ShopEase</p>
-          <p className="mt-2 text-sm text-slate-400">A modern shopping experience built with React.</p>
+          <p className="mt-2 text-sm text-slate-400">København, Danmark</p>
+         
         </div>
         <div className="flex flex-wrap gap-4 text-sm text-slate-400">
           <Link className="transition hover:text-white" to="/">Home</Link>
