@@ -22,13 +22,13 @@ export const products = [
   },
   {
     id: 4,
-    name: "Leather Backpack",
+    name: "Leather ",
     price: 150,
     image: img3,
   },
   {
     id: 5,
-    name: "Wireless Headphones",
+    name: "White T-shirt",
     price: 200,
     image: img2,
   },

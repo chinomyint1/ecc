@@ -25,9 +25,9 @@ function Home() {
         </video>
         <div className="absolute inset-0 bg-slate-950/70" />
         <div className="relative mx-auto max-w-4xl px-8 py-24 text-center text-white sm:px-12 sm:py-28">
-          <h1 className="text-4xl font-semibold sm:text-5xl">Discover your next favorite item</h1>
+          <h1 className="text-4xl font-semibold sm:text-5xl">Discover your next favorite clothing</h1>
           <p className="mt-4 mx-auto max-w-2xl text-base text-slate-200 sm:text-lg">
-            Browse curated products, add them to your cart, and checkout with confidence.
+           Find the perfect piece to complete your look.
           </p>
         </div>
       </section>

@@ -11,7 +11,7 @@ function Shop() {
       <section className="mb-10 rounded-3xl bg-gradient-to-r from-slate-950 via-slate-900 to-slate-950 px-8 py-10 text-white shadow-xl shadow-slate-950/40 sm:px-12">
         <h1 className="text-4xl font-semibold sm:text-5xl">Shop all products</h1>
         <p className="mt-4 max-w-2xl text-base text-slate-300 sm:text-lg">
-          Browse the full catalog and click a product to see details, then add your favorites to the cart.
+         .
         </p>
       </section>
 
