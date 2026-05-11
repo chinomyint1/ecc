@@ -16,7 +16,7 @@ function About() {
           <div className="rounded-3xl bg-slate-800 p-6">
             <h2 className="text-xl font-semibold text-white">Why choose us</h2>
             <p className="mt-3 text-slate-300">
-             vi er hurtige og leverer kvalitet.
+             vi er hurtige og leverer kvalitet. 
             </p>
           </div>
         </div>
