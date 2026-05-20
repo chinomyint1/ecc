@@ -8,6 +8,8 @@ import Project from "./pages/Project";
 import ProjectInfo from "./pages/ProjectInfo";
 import Cart from "./pages/Cart";
 import ProductDetails from "./pages/ProductDetails";
+import Blog from "./pages/Blog";
+import BlogPost from "./pages/BlogPost";
 
 function App() {
   return (
@@ -23,6 +25,8 @@ function App() {
           <Route path="/project-info" element={<ProjectInfo />} />
           <Route path="/cart" element={<Cart />} />
           <Route path="/product/:id" element={<ProductDetails />} />
+          <Route path="/blog" element={<Blog />} />
+          <Route path="/blog/:id" element={<BlogPost />} />
         </Routes>
 
         <Footer />

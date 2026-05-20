@@ -20,6 +20,9 @@ function Navbar() {
           <Link className="transition hover:text-white" to="/shop">
             Shop
           </Link>
+          <Link className="transition hover:text-white" to="/blog">
+            Blog
+          </Link>
           <Link className="transition hover:text-white" to="/about">
             About
           </Link>
